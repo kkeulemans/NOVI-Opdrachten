@@ -57,8 +57,9 @@ background-color:magenta;
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
 input[type="text"]:focus {
     outline: none;
-    border: 1px solid hsl(240, 100%, 50%);
+    border-style: solid;
     border-radius: 2px;
+    border-color: hsl(240, 100%, 50%);
 }
 
 
