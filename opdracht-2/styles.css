@@ -55,7 +55,7 @@
  article{
      display: flex;
      flex-direction: column;
-     flex-basis:300px;
+     flex-basis:350px;
      flex-shrink: 1;
      flex-grow: 1;
  }
